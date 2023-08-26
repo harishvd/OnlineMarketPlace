@@ -1,22 +1,14 @@
-<<<<<<< HEAD
-## Getting Started
+An online marketplace that allows buyers to browse and purchase products from multiple sellers. The marketplace provides an easy-to-use interface for buyers to search and filter products, view product details, add products to their shopping cart, and checkout. The goal is to create a seamless and efficient online shopping experience for buyers.
 
-Welcome to the VS Code Java world. Here is a guideline to help you get started to write Java code in Visual Studio Code.
-
-## Folder Structure
-
-The workspace contains two folders by default, where:
-
-- `src`: the folder to maintain sources
-- `lib`: the folder to maintain dependencies
-
-Meanwhile, the compiled output files will be generated in the `bin` folder by default.
-
-> If you want to customize the folder structure, open `.vscode/settings.json` and update the related settings there.
-
-## Dependency Management
-
-The `JAVA PROJECTS` view allows you to manage your dependencies. More details can be found [here](https://github.com/microsoft/vscode-java-dependency#manage-dependencies).
-=======
-# OnlineMarketPlace
->>>>>>> 9138249367769c607a7ed4f0a601ca5d1ef452d6
+Functionality
+1) User Registration and Login
+2) Users must be able to register and log in to their accounts.
+3) Product Fetch
+4) The system should be able to retrieve any product using an identifier.
+5) Shopping Cart
+6) Buyers should be able to add products to a shopping cart, view their cart, and checkout.
+7) The checkout process should collect necessary information from the buyer, including shipping address, payment information, and order confirmation.
+8) Order Management
+9) Buyers should be able to view their order history and track their orders.
+10) Should check on the availability of the products before checkout.
+11) Multiple users trying to buy the same product and added to the card.
